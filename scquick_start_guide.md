@@ -190,7 +190,7 @@ docs/
 ├── user_manual/  # 用户手册
 └── developer_guide/  # 开发者指南
 7.2 支持渠道
-技术支持邮箱：support@robotap.com
-开发者论坛：forum.robotap.com
-在线文档：docs.robotap.com
+技术支持邮箱：1636677376@qq.com
+开发者论坛：forum
+在线文档：docs
 本手册提供了酒店送餐机器人从开发到实施的全流程指南，涵盖硬件选型、软件开发、仿真测试、部署维护以及实施流程，帮助开发者快速构建和部署定制化的酒店送餐机器人解决方案。
